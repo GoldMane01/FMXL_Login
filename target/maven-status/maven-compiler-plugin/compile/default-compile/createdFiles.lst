@@ -1,0 +1,10 @@
+com\mycompany\fxmllogin\SessionData.class
+com\mycompany\fxmllogin\SecondaryController$1.class
+com\mycompany\fxmllogin\EditorTareaController.class
+com\mycompany\fxmllogin\PrimaryController.class
+models\Usuario.class
+com\mycompany\fxmllogin\HibernateUtil.class
+module-info.class
+com\mycompany\fxmllogin\SecondaryController.class
+com\mycompany\fxmllogin\App.class
+models\Tarea.class

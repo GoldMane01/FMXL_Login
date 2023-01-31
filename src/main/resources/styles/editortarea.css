@@ -1,0 +1,17 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+#btnBorrar {
+    -fx-background-color:#e36247;
+}
+
+.boton {
+    -fx-margin:10px;
+    -fx-padding:5px 20px;
+    -fx-font-size:15px;
+}
+
+.ventana {
+    -fx-background-image:url(@../../../texture-background.jpg);
+}
